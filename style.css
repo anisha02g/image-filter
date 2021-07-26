@@ -1,0 +1,24 @@
+#canvas {
+    margin: auto;
+    background: rgb(223, 221, 221);
+    width: 100%;
+}
+
+body{
+    background: linear-gradient(rgb(157, 216, 231),rgb(243, 181, 191) );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-primary{
+    padding-left: 6ex;
+    padding-right: 6ex;
+    
+}
+
+.btn-danger{
+    padding-left: 6ex;
+    padding-right: 6ex;
+}
+
+
+   
